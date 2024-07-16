@@ -1,0 +1,76 @@
+{
+    "tenantId": "sn",
+    "moduleName": "HCM-SYMPTOMS-TYPES",
+    "symptomsTypes": [
+        {
+            "code": "FEVER",
+            "name": "Fiévre",
+            "active": true
+        },
+        {
+            "code": "HEADACHE",
+            "name": "Céphalées",
+            "active": true
+        },
+        {
+            "code": "DIZZINESS",
+            "name": "Vertiges",
+            "active": true
+        },
+        {
+            "code": "UNCONTROLLABLE_VOMITING",
+            "name": "Vomissements incoercibles",
+            "active": true
+        },
+        {
+            "code": "ABDOMINAL_PAIN",
+            "name": "Douleurs abdominales",
+            "active": true
+        },
+        {
+            "code": "DIARRHOEA",
+            "name": "Diarrhée",
+            "active": true
+        },
+        {
+            "code": "ITCHING",
+            "name": "Prurit",
+            "active": true
+        },
+        {
+            "code": "CONVULSIVE_SEIZURES",
+            "name": "Crises convulsives",
+            "active": true
+        },
+        {
+            "code": "RASH",
+            "name": "Eruption cutanée",
+            "active": true
+        },
+        {
+            "code": "EYE_REDNESS",
+            "name": "Rougeur des yeux",
+            "active": true
+        },
+        {
+            "code": "DYSKINESIA",
+            "name": "Dyskinésie",
+            "active": true
+        },
+        {
+            "code": "DIFFICULTY_STANDING_OR_WALKING",
+            "name": "Difficultés à se tenir deb ou marcher",
+            "active": true
+        },
+        {
+            "code": "Bleeding",
+            "name": "Saignement",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
+            "active": true
+        }
+    ]
+}

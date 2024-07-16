@@ -1,0 +1,26 @@
+{
+  "tenantId": "sn",
+  "moduleName": "HCM-TRANSFORMER-ELASTIC-INDEX-LABELS",
+  "transformerElasticIndexLabels": [
+    {
+      "label": "Country",
+      "indexLabel": "country"
+    },
+    {
+      "label": "DRS",
+      "indexLabel": "drs"
+    },
+    {
+      "label": "District",
+      "indexLabel": "district"
+    },
+    {
+      "label": "Poste De Sante",
+      "indexLabel": "healthFacility"
+    },
+    {
+      "label": "Village",
+      "indexLabel": "village"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+    "tenantId": "sn",
+    "moduleName": "HCM-TRANSFORMER-LOCALIZATIONS",
+    "transformerLocalizations": [
+        {
+            "text": "PENDING_ASSIGNMENT",
+            "translatedText": "PENDING_ASSIGNMENT"
+        },
+        {
+            "text": "RESOLVED",
+            "translatedText": "RESOLVED"
+        },
+        {
+            "text": "REJECTED",
+            "translatedText": "REJECTED"
+        },
+        {
+            "text": "TechnicalIssues",
+            "translatedText": "TechnicalIssues"
+        },
+        {
+            "text": "LackOfInternet",
+            "translatedText": "LackOfInternet"
+        },
+        {
+            "text": "UserAccountIssues",
+            "translatedText": "UserAccountIssues"
+        },
+        {
+            "text": "DataIssues",
+            "translatedText": "DataIssues"
+        },
+        {
+            "text": "PerformanceIssue",
+            "translatedText": "PerformanceIssue"
+        },
+        {
+            "text": "SecurityIssues",
+            "translatedText": "SecurityIssues"
+        },
+        {
+            "text": "Other",
+            "translatedText": "Other"
+        }
+    ]
+}
