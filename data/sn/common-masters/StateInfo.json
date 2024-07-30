@@ -14,7 +14,7 @@
       "hasLocalisation": true,
       "isLanguageSelectionDisabled": false,
       "isForgotPwdDisabled": true,
-      "defaultLanguage": "pt_MZ",
+      "defaultLanguage": "fr_SN",
       "isCitySelectionDisabled": true,
       "defaultCity": "sn",
       "HRMS_CONSTANTS": {
@@ -31,6 +31,10 @@
         {
           "label": "PORTUGUÊS",
           "value": "pt_MZ"
+        },
+        {
+          "label": "French",
+          "value": "fr_SN"
         }
       ],
       "localizationModules": [
