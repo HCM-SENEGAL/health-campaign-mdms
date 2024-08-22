@@ -10,12 +10,12 @@
             "isOrigin": true
           },
           "national": {
-            "routePath": "https://senegal-hcm.digit.org/kibana-upgrade/s/sen-french/app/dashboards?auth_provider_hint=anonymous1#/view/be5e2a5a-ad9e-48ac-8e76-46cf3e497190?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana-upgrade/s/developer-two/app/dashboards?auth_provider_hint=anonymous1#/view/2f2efe60-cd56-48d7-b624-3fb80d8e3376?_g=()&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
           "district": {
-            "routePath": "https://senegal-hcm.digit.org/kibana-upgrade/s/sen-french/app/dashboards?auth_provider_hint=anonymous1#/view/be5e2a5a-ad9e-48ac-8e76-46cf3e497190?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana-upgrade/s/developer-two/app/dashboards?auth_provider_hint=anonymous1#/view/2f2efe60-cd56-48d7-b624-3fb80d8e3376?_g=()&_a=()",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           }
