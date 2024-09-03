@@ -10,12 +10,12 @@
             "isOrigin": true
           },
           "national": {
-            "routePath": "/kibana-upgrade/s/developer-two/app/dashboards?auth_provider_hint=anonymous1#/view/2f2efe60-cd56-48d7-b624-3fb80d8e3376?_g=()&_a=()",
+            "routePath": "/kibana-upgrade/s/3-french/app/dashboards?auth_provider_hint=anonymous1#/view/efa7b219-2a52-4fdb-b51b-e169551d27dd?_g=()&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
           "district": {
-            "routePath": "/kibana-upgrade/s/developer-two/app/dashboards?auth_provider_hint=anonymous1#/view/2f2efe60-cd56-48d7-b624-3fb80d8e3376?_g=()&_a=()",
+            "routePath": "/kibana-upgrade/s/3-french/app/dashboards?auth_provider_hint=anonymous1#/view/efa7b219-2a52-4fdb-b51b-e169551d27dd?_g=()&_a=()",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           }
