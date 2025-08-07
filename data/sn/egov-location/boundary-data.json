@@ -28,34 +28,34 @@
             "code": "cShpt8E3CdUr6Am8HFh6ZS",
             "children": [
               {
-                "id": "N3JwgGvfypZ3pniMqtEuVf",
+                "id": "N3JwgGvfypZ3pniMqtEuUf",
                 "boundaryNum": 3,
-                "name": "District Diourbel",
-                "localname": "District Diourbel",
+                "name": "District Bambey",
+                "localname": "District Bambey",
                 "longitude": null,
                 "latitude": null,
                 "label": "District",
-                "code": "N3JwgGvfypZ3pniMqtEuVf",
+                "code": "N3JwgGvfypZ3pniMqtEuUf",
                 "children": [
                   {
-                    "id": "BUcznEihJyGE6iyJCxoamT",
+                    "id": "BucznEihJyGE6iyJCxoanT",
                     "boundaryNum": 4,
-                    "name": "Patar",
-                    "localname": "Patar",
+                    "name": "Palene",
+                    "localname": "Palene",
                     "longitude": null,
                     "latitude": null,
                     "label": "Poste De Sante",
-                    "code": "BUcznEihJyGE6iyJCxoamT",
+                    "code": "BucznEihJyGE6iyJCxoanT",
                     "children": [
                       {
-                        "id": "nF5nEsenqYktVGN9f4KyGK",
+                        "id": "nF5nEsenqYktVGN9f4KyHK",
                         "boundaryNum": 5,
-                        "name": "Cockyolette",
-                        "localname": "Cockyolette",
+                        "name": "Batal",
+                        "localname": "Batal",
                         "longitude": null,
                         "latitude": null,
                         "label": "Village",
-                        "code": "nF5nEsenqYktVGN9f4KyGK",
+                        "code": "nF5nEsenqYktVGN9f4KyHK",
                         "children": []
                       }
                     ]
