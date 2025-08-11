@@ -1,0 +1,36 @@
+{
+  "tenantId": "sn",
+  "moduleName": "HCM-BOUNDARY-TYPE-MAPPING",
+  "boundaryTypeMapping": [
+    {
+      "boundaryNum": "1",
+      "boundaryType": "Country",
+      "parentBoundaryType": "NA",
+      "childBoundaryType": "DRS"
+    },
+    {
+      "boundaryNum": "2",
+      "boundaryType": "DRS",
+      "parentBoundaryType": "Country",
+      "childBoundaryType": "District"
+    },
+    {
+      "boundaryNum": "3",
+      "boundaryType": "District",
+      "parentBoundaryType": "DRS",
+      "childBoundaryType": "Poste De Sante"
+    },
+    {
+      "boundaryNum": "4",
+      "boundaryType": "Poste De Sante",
+      "parentBoundaryType": "District",
+      "childBoundaryType": "Village"
+    },
+    {
+      "boundaryNum": "5",
+      "boundaryType": "Village",
+      "parentBoundaryType": "Poste De Sante",
+      "childBoundaryType": "NA"
+    }
+  ]
+}
