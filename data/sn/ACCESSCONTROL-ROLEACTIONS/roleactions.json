@@ -19033,6 +19033,108 @@
       "actionid": 1551,
       "actioncode": "",
       "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1932,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1937,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1938,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1939,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1940,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantid": "sn"
     }
   ]
 }

@@ -136,6 +136,11 @@
       "code": "ATTENDANCE_STAFF",
       "name": "Attendance Staff",
       "description": "Attendance staff"
+    },
+    {
+      "code": "PROXIMITY_SUPERVISOR",
+      "name": "Proximity Supervisor",
+      "description": "Proximity Supervisor"
     }
   ]
 }
