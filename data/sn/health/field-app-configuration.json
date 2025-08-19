@@ -58,16 +58,16 @@
       ],
       "CHECKLIST_TYPES": [
         {
+          "name": "CAMPAIGN_PREPARATION",
+          "code": "CAMPAIGN_PREPARATION"
+        },
+        {
           "name": "SPC_ADMINISTRATION",
           "code": "SPC_ADMINISTRATION"
         },
         {
           "name": "SURVEY_FORM",
           "code": "SURVEY_FORM"
-        },
-        {
-          "name": "CAMPAIGN_PREPARATION",
-          "code": "CAMPAIGN_PREPARATION"
         },
         {
           "name": "TREATMENT_EVALUATION",
