@@ -18495,6 +18495,12 @@
       "tenantid": "sn"
     },
     {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
       "rolecode": "COMMUNITY_SUPERVISOR",
       "actionid": 1667,
       "actioncode": "",
