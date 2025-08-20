@@ -24,8 +24,8 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1721088000000,
-          "endDate": 1722470399000,
+          "startDate": 1749945600000,
+          "endDate": 1752537599000,
           "id": 1,
           "deliveries": [
             {
@@ -146,8 +146,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1722470400000,
-          "endDate": 1723766399000,
+          "startDate": 1752537600000,
+          "endDate": 1755215999000,
           "id": 2,
           "deliveries": [
             {
@@ -268,9 +268,253 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1725062400000,
-          "endDate": 1727222399000,
+          "startDate": 1755216000000,
+          "endDate": 1757894399000,
           "id": 3,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1757894400000,
+          "endDate": 1760486399000,
+          "id": 4,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000001",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2025-08-05-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1760486400000,
+          "endDate": 1763164799000,
+          "id": 5,
           "deliveries": [
             {
               "id": 1,
@@ -467,11 +711,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "COB1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "COB2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -499,8 +743,8 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1749081600000,
-          "endDate": 1751673599000,
+          "startDate": 1749945600000,
+          "endDate": 1752537599000,
           "id": 1,
           "deliveries": [
             {
@@ -621,8 +865,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1751673600000,
-          "endDate": 1754351999000,
+          "startDate": 1752537600000,
+          "endDate": 1755215999000,
           "id": 2,
           "deliveries": [
             {
@@ -743,8 +987,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1754352000000,
-          "endDate": 1757030399000,
+          "startDate": 1755216000000,
+          "endDate": 1757894399000,
           "id": 3,
           "deliveries": [
             {
@@ -865,8 +1109,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1757030400000,
-          "endDate": 1759622399000,
+          "startDate": 1757894400000,
+          "endDate": 1760486399000,
           "id": 4,
           "deliveries": [
             {
@@ -987,8 +1231,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1759622400000,
-          "endDate": 1762300799000,
+          "startDate": 1760486400000,
+          "endDate": 1763164799000,
           "id": 5,
           "deliveries": [
             {
@@ -1186,11 +1430,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -1206,14 +1450,6 @@
         {
           "productVariantId": "PVAR-2025-08-06-000003",
           "isBaseUnitVariant": false
-        },
-        {
-          "productVariantId": "PVAR-2025-08-06-000004",
-          "isBaseUnitVariant": false
-        },
-        {
-          "productVariantId": "PVAR-2025-08-06-000005",
-          "isBaseUnitVariant": false
         }
       ],
       "observationStrategy": "DOT1",
@@ -1222,8 +1458,8 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1749081600000,
-          "endDate": 1751673599000,
+          "startDate": 1752105600000,
+          "endDate": 1754783999000,
           "id": 1,
           "deliveries": [
             {
@@ -1236,15 +1472,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1253,7 +1498,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1270,15 +1515,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1287,7 +1541,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1304,15 +1558,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1321,7 +1584,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1332,8 +1595,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1751673600000,
-          "endDate": 1754351999000,
+          "startDate": 1754784000000,
+          "endDate": 1757462399000,
           "id": 2,
           "deliveries": [
             {
@@ -1346,15 +1609,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1363,7 +1635,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1380,15 +1652,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1397,7 +1678,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1414,15 +1695,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1431,7 +1721,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1442,8 +1732,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1754352000000,
-          "endDate": 1757030399000,
+          "startDate": 1757462400000,
+          "endDate": 1760054399000,
           "id": 3,
           "deliveries": [
             {
@@ -1456,15 +1746,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1473,7 +1772,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1490,15 +1789,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1507,7 +1815,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1524,45 +1832,12 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
+                      "quantity": 0.5
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1757030400000,
-          "endDate": 1759622399000,
-          "id": 4,
-          "deliveries": [
-            {
-              "id": 1,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
+                  "condition": "60<=age<120",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
@@ -1571,197 +1846,19 @@
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
                       "quantity": 2
                     }
                   ]
                 },
                 {
                   "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 3,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1759622400000,
-          "endDate": 1762300799000,
-          "id": 5,
-          "deliveries": [
-            {
-              "id": 1,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 3,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
                       "quantity": 3
                     }
                   ]
@@ -1837,28 +1934,24 @@
             "targetedColumn": "target_1"
           },
           {
-            "beneficiarytype": "60-167MONTH",
+            "beneficiarytype": "60-119MONTH",
             "targetedColumn": "target_2"
           },
           {
-            "beneficiarytype": "167-1800MONTH",
+            "beneficiarytype": "120-167MONTH",
+            "targetedColumn": "target_2"
+          },
+          {
+            "beneficiarytype": "168-1800MONTH",
             "targetedColumn": "target_3"
           },
           {
             "beneficiarytype": "PRODUCT",
-            "targetedColumn": "total_8"
+            "targetedColumn": "total_6"
           },
           {
-            "beneficiarytype": "Plaquette 9",
-            "targetedColumn": "total_7"
-          },
-          {
-            "beneficiarytype": "Plaquette 3",
+            "beneficiarytype": "DHAPQ",
             "targetedColumn": "target_5"
-          },
-          {
-            "beneficiarytype": "Plaquette 6",
-            "targetedColumn": "target_6"
           }
         ]
       }
@@ -1873,14 +1966,6 @@
         {
           "productVariantId": "PVAR-2025-08-06-000003",
           "isBaseUnitVariant": false
-        },
-        {
-          "productVariantId": "PVAR-2025-08-06-000004",
-          "isBaseUnitVariant": false
-        },
-        {
-          "productVariantId": "PVAR-2025-08-06-000005",
-          "isBaseUnitVariant": false
         }
       ],
       "observationStrategy": "DOT1",
@@ -1889,8 +1974,8 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1749081600000,
-          "endDate": 1751673599000,
+          "startDate": 1752105600000,
+          "endDate": 1754783999000,
           "id": 1,
           "deliveries": [
             {
@@ -1903,15 +1988,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1920,7 +2014,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1937,15 +2031,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1954,7 +2057,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1971,15 +2074,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -1988,7 +2100,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -1999,8 +2111,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1751673600000,
-          "endDate": 1754351999000,
+          "startDate": 1754784000000,
+          "endDate": 1757462399000,
           "id": 2,
           "deliveries": [
             {
@@ -2013,15 +2125,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -2030,7 +2151,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -2047,15 +2168,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -2064,7 +2194,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -2081,15 +2211,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -2098,7 +2237,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -2109,8 +2248,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1754352000000,
-          "endDate": 1757030399000,
+          "startDate": 1757462400000,
+          "endDate": 1760054399000,
           "id": 3,
           "deliveries": [
             {
@@ -2123,15 +2262,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -2140,7 +2288,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -2157,15 +2305,24 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 1
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000004",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 2
                     }
                   ]
@@ -2174,7 +2331,7 @@
                   "condition": "168<=age<1800",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-08-06-000005",
+                      "productVariantId": "PVAR-2025-08-06-000003",
                       "quantity": 3
                     }
                   ]
@@ -2191,45 +2348,12 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
+                      "quantity": 0.5
                     }
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1757030400000,
-          "endDate": 1759622399000,
-          "id": 4,
-          "deliveries": [
-            {
-              "id": 1,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
+                  "condition": "60<=age<120",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
@@ -2238,197 +2362,19 @@
                   ]
                 },
                 {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
+                  "condition": "120<=age<168",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
                       "quantity": 2
                     }
                   ]
                 },
                 {
                   "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 3,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1759622400000,
-          "endDate": 1762300799000,
-          "id": 5,
-          "deliveries": [
-            {
-              "id": 1,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
-                      "quantity": 3
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": 3,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
-                {
-                  "condition": "3<=age<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000003",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "60<=age<168",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000004",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "168<=age<1800",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-08-06-000005",
                       "quantity": 3
                     }
                   ]
@@ -2504,28 +2450,24 @@
             "targetedColumn": "target_1"
           },
           {
-            "beneficiarytype": "60-167MONTH",
+            "beneficiarytype": "60-119MONTH",
             "targetedColumn": "target_2"
           },
           {
-            "beneficiarytype": "167-1800MONTH",
+            "beneficiarytype": "120-167MONTH",
+            "targetedColumn": "target_2"
+          },
+          {
+            "beneficiarytype": "168-1800MONTH",
             "targetedColumn": "target_3"
           },
           {
             "beneficiarytype": "PRODUCT",
-            "targetedColumn": "total_8"
+            "targetedColumn": "total_6"
           },
           {
-            "beneficiarytype": "Plaquette 9",
-            "targetedColumn": "total_7"
-          },
-          {
-            "beneficiarytype": "Plaquette 3",
+            "beneficiarytype": "DHAPQ",
             "targetedColumn": "target_5"
-          },
-          {
-            "beneficiarytype": "Plaquette 6",
-            "targetedColumn": "target_6"
           }
         ]
       }
@@ -2533,7 +2475,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120006-dummy",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "SMC",
+      "code": "SMC-1",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
@@ -2995,11 +2937,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -3008,7 +2950,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120006",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "SMC",
+      "code": "SMC-1",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
@@ -3470,11 +3412,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -3483,7 +3425,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120007-dummy",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "SMC",
+      "code": "SMC-2",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
@@ -4067,11 +4009,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -4080,7 +4022,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120007",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "SMC",
+      "code": "SMC-2",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
@@ -4664,11 +4606,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -4677,7 +4619,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120008-dummy",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "SMC",
+      "code": "SMC-3",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
@@ -5139,11 +5081,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
@@ -5152,7 +5094,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120008",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "SMC",
+      "code": "SMC-3",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
@@ -5614,11 +5556,11 @@
             "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
+            "beneficiarytype": "COBLISTER1",
             "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
+            "beneficiarytype": "COBLISTER2",
             "targetedColumn": "target_6"
           }
         ]
