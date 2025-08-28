@@ -23,6 +23,21 @@
             "routePath": "/kibana-upgrade/app/dashboards#/view/08ea8200-7de3-11f0-85a0-1991b0e64ea3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
+          },
+          "national-smc": {
+            "routePath": "/kibana-upgrade/app/dashboards#/view/24b1b2b0-30b3-11f0-9f25-7536c359a18b?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "NATIONAL_DASHBOARD_SMC"
+          },
+          "drs-smc": {
+            "routePath": "/kibana-upgrade/app/dashboards#/view/ef296860-7de0-11f0-85a0-1991b0e64ea3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "DRS_DASHBOARD_SMC"
+          },
+          "district-smc": {
+            "routePath": "/kibana-upgrade/app/dashboards#/view/08ea8200-7de3-11f0-85a0-1991b0e64ea3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "DISTRICT_DASHBOARD_SMC"
           }
         }
       }
