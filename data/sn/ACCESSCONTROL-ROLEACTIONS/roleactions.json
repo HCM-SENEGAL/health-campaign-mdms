@@ -19027,6 +19027,18 @@
       "actionid": 1551,
       "actioncode": "",
       "tenantid": "sn"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1659,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1659,
+      "actioncode": "",
+      "tenantId": "sn"
     }
   ]
 }
