@@ -80,6 +80,10 @@
         {
           "name": "SUPERVISION_GRID",
           "code": "SUPERVISION_GRID"
+        },
+        {
+          "name": "ADVERSE_EFFECTS_MONITORING",
+          "code": "ADVERSE_EFFECTS_MONITORING"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
