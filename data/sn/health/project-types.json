@@ -1232,7 +1232,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": null,
           "startDate": 1760486400000,
-          "endDate": 1763164799000,
+          "endDate": 1767225599000,
           "id": 5,
           "deliveries": [
             {
@@ -2249,7 +2249,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": null,
           "startDate": 1757462400000,
-          "endDate": 1760054399000,
+          "endDate": 1767225599000,
           "id": 3,
           "deliveries": [
             {
@@ -3214,7 +3214,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": null,
           "startDate": 1760486400000,
-          "endDate": 1763164799000,
+          "endDate": 1767225599000,
           "id": 3,
           "deliveries": [
             {
@@ -4408,7 +4408,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": null,
           "startDate": 1760486400000,
-          "endDate": 1763164799000,
+          "endDate": 1767225599000,
           "id": 4,
           "deliveries": [
             {
@@ -5358,7 +5358,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": null,
           "startDate": 1757894400000,
-          "endDate": 1760486399000,
+          "endDate": 1767225599000,
           "id": 3,
           "deliveries": [
             {
